@@ -7,4 +7,4 @@ Step 4: Create a GitHub Actions Workflow
 Step 5: Add AWS Credentials to GitHub Secrets
 Step 6: Test the Workflow
 step 7: Setup DNS record for domain with cloudfront endpoint
-FOR STEP BY STEP PROJETS IN DETAILS- CHECK OUR BLOG-- 
+FOR STEP BY STEP PROJETS IN DETAILS- CHECK OUR BLOG-- https://tech-cloud-devops.blogspot.com/p/s3-website-hosting-with-automation.html
